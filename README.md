@@ -1,7 +1,8 @@
 # Biotech-Projects
 🧬 DNA to RNA Converter – Biotech Cyberpunk Edition 🚀
 A futuristic Tkinter-based GUI to convert DNA sequences into RNA with a stunning neon biotech theme!
-(Optional: Add a UI screenshot here)
+
+![image](https://github.com/user-attachments/assets/1fe8f021-7fde-4bd9-b7a9-914dfb0cc752)
 
 📌 Features
 ✅ Convert DNA to RNA – Replace T with U in DNA sequences.
@@ -11,47 +12,25 @@ A futuristic Tkinter-based GUI to convert DNA sequences into RNA with a stunning
 ✅ Biotech Cyberpunk UI – Neon-themed, dark mode, glassmorphism effects.
 ✅ Animated Buttons & Hover Effects – Modern interactive design.
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/dna-rna-converter.git
-cd dna-rna-converter
-2️⃣ Install Dependencies
-This project only requires Python and Tkinter, which comes pre-installed with Python 3.
-To install manually (if needed):
+🧬 python dna_rna_gui.py
 
-sh
-Copy
-Edit
-pip install tk
-3️⃣ Run the Script
-sh
-Copy
-Edit
-python dna_rna_gui.py
 🎨 UI Preview
 (Add a screenshot of your UI here to showcase the design!)
 
 🛠 How to Use
-Enter a DNA sequence in the text box.
 
-Click "Convert to RNA" to get the RNA sequence.
+🚀Enter a DNA sequence in the text box.
 
-Click "Reverse Transcription" to convert RNA back to DNA.
-
-Click "Find Complement" to get the complementary strand.
-
-Use "Save Sequence" to store the sequence in a file.
-
-Use "Load Sequence" to retrieve a saved DNA sequence.
+✅Click "Convert to RNA" to get the RNA sequence.
+✅Click "Reverse Transcription" to convert RNA back to DNA.
+✅Click "Find Complement" to get the complementary strand.
+✅Use "Save Sequence" to store the sequence in a file.
+✅Use "Load Sequence" to retrieve a saved DNA sequence.
 
 👨‍💻 Tech Stack
+
 Python 3
-
 Tkinter (GUI)
-
 Custom Theming (Dark Mode, Neon Colors, Glass UI)
 
 🎯 Future Enhancements
@@ -60,16 +39,12 @@ Custom Theming (Dark Mode, Neon Colors, Glass UI)
 🚀 Integrate a database to store multiple sequences
 🚀 Web-based version using Flask/Django
 
-📜 License
-This project is open-source under the MIT License. Feel free to modify and use it!
-
 🤝 Contributing
 Want to improve this tool? Feel free to fork, create issues, and submit pull requests!
 
 📬 Contact & Support
-💬 Author: Your Name
-📧 Email: your.email@example.com
-🌐 Portfolio: your-website.com
+💬 Author: Rachit Vaishnav
+📧 Email: rachitvaishnav@gmail.com
 
 Give this project a ⭐ if you found it useful! 🚀🔥
 

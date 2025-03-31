@@ -1,4 +1,5 @@
 # Biotech-Projects
+Project #1 
 🧬 DNA to RNA Converter – Biotech Cyberpunk Edition 🚀
 A futuristic Tkinter-based GUI to convert DNA sequences into RNA with a stunning neon biotech theme!
 
@@ -39,11 +40,4 @@ Custom Theming (Dark Mode, Neon Colors, Glass UI)
 🚀 Integrate a database to store multiple sequences
 🚀 Web-based version using Flask/Django
 
-🤝 Contributing
-Want to improve this tool? Feel free to fork, create issues, and submit pull requests!
-
-📬 Contact & Support
-💬 Author: Rachit Vaishnav
 📧 Email: rachitvaishnav@gmail.com
-
-Give this project a ⭐ if you found it useful! 🚀🔥

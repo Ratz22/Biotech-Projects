@@ -47,5 +47,3 @@ Want to improve this tool? Feel free to fork, create issues, and submit pull req
 📧 Email: rachitvaishnav@gmail.com
 
 Give this project a ⭐ if you found it useful! 🚀🔥
-
-This README file makes the project professional, easy to understand, and visually appealing. Let me know if you want any custom tweaks! 😊
